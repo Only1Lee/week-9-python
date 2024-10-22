@@ -1,0 +1,17 @@
+﻿#Myla and darryls work
+print("Myla: Hey Jordan, have you seen the new movie yet?")
+print("Darryl: No, not yet. Is it any good?")
+print("Myla: Yeah, it's amazing! You should definitely watch it.")
+print("Darryl: I’ve heard mixed reviews. What's so great about it?")
+print("Myla: The storyline is gripping, and the acting is top-notch.")
+print("Darryl: Hmm, maybe I’ll give it a shot this weekend.")
+print("Myla: Perfect. We can discuss it afterward.")
+print("Darryl: Sure thing. Any other recommendations?")
+print("Myla: If you like thrillers, there’s also another one I’d suggest.")
+print("Number3: Oh, which one?")
+# number3 is a bystandard
+print("Myla: It’s called 'Mind Bender.' It keeps you on the edge of your seat!")
+print("Darryl : Sounds intriguing. I’ll add it to my list.")
+print("Myla: Great! Let me know what you think after you watch them.")
+print("Darryl: Will do. Thanks for the recommendations!")
+print("Myla: Anytime, Jordan. Enjoy your movie time!")
